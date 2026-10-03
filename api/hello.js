@@ -6,7 +6,7 @@ module.exports = async function (context, req) {
         },
         body: {
             mensaje: "API funcionando correctamente",
-            curso: "Azure Static Web Apps",
+            curso: "Azure Static Web Apps - LCH",
             estado: "OK"
         }
     };
