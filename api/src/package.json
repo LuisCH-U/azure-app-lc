@@ -1,0 +1,9 @@
+{
+  "name": "azure-static-app-api",
+  "version": "1.0.0",
+  "description": "Serverless API for Azure Static Web Apps",
+  "main": "src/functions/*.js",
+  "dependencies": {
+    "@azure/functions": "^4.6.0"
+  }
+}
